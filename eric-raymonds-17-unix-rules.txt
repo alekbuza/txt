@@ -1,0 +1,17 @@
+Build modular programs
+Write readable programs
+Use composition
+Separate mechanisms from policy
+Write simple programs
+Write small programs
+Write transparent programs
+Write robust programs
+Make data complicated when required, not the program
+Build on potential users' expected knowledge
+Avoid unnecessary output
+Write programs which fail in a way that is easy to diagnose
+Value developer time over machine time
+Write abstract programs that generate code instead of writing code by hand
+Prototype software before polishing it
+Write flexible and open programs
+Make the program and protocols extensible.
